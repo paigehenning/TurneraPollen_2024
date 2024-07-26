@@ -1,0 +1,6 @@
+IDs	S-morph	L-morph	L-mating	S-mating	SI	SC
+Sample04	1	0	1	1	SC	1
+Sample05	1	0	1	1	SC	1
+Sample06	1	0	0	1	WT	0
+Sample07	1	0	0	1	WT	0
+Sample08	1	0	0	1	WT	0
